@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TheraGen</title>
+
+    <!-- Linking Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif; /* Change the font family as needed */
+            background-color: #f8f9fa; /* Set a light background color */
+            margin: 20px;
+        }
+
+        h1 {
+            color: #007bff; /* Set the heading color */
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input {
+            width: 70%;
+            padding: 8px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .user-message, .bot-message {
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .user-message {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        .bot-message {
+            background-color: #28a745;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TheraGen</h1>
+        <form method="post" action="/ask">
+            <div class="form-group">
+                <label for="user_input">You:</label>
+                <input type="text" class="form-control" name="user_input" id="user_input" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Ask</button>
+        </form>
+
+        {% if user_input %}
+            <p class="user-message">You: {{ user_input }}</p>
+        {% endif %}
+
+        {% if bot_response %}
+            <p class="bot-message">Bot: {{ bot_response }}</p>
+        {% endif %}
+    </div>
+
+    <!-- Linking Bootstrap JS and Popper.js for Bootstrap functionality -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
