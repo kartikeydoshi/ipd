@@ -1,0 +1,1050 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2019 by the American Psychological Association. This material may be reproduced and distributed without permission provided that acknowledgment is given to the American Psychological Association. This material may not be reprinted, translated, or distributed electronically without prior permission in writing from the publisher. For permission, contact APA, Rights and Permissions, 750 First Street, NE, Washington, DC 20002-4242.
+
+This document was approved by the APA Council of Representatives over the course of its February 2019 meeting and is set to expire in approximately 2024. It is available online at https://www.apa.org/depression-guideline.
+
+Please refer to p. 59 of this guideline for a statement on conflicts of interest as well as p. 61 for acknowledgments.
+Correspondence concerning this guideline should be addressed to Practice Directorate, American Psychological Association, 750 First Street, NE, Washington, DC 20002-4242. E-mail: cpg@apa.org
+
+Suggested Citation
+American Psychological Association. (2019). Clinical practice guideline for the treatment of depression across three age cohorts.
+Retrieved from  https://www.apa.org/depression-guideline
+-.-....._.
+-., ..
+
+
+._.....,
+
+
+
+
+AMERICAN PSYCHOLOGICAL ASSOCIATION
+
+
+
+
+A PA C L I N I CA L P RA CT I C E G U I D E L I N E
+for the Treat:ment of Depression Across Three Age Cohorts
+
+
+
+
+
+
+Guideline Development Panel
+
+John R. McQuaid (chair)
+Department of Veteran's Affairs San Francisco, California
+
+
+Vanessa Y. Jones
+Washington, District of Columbia
+
+Michael "Misha" Kessler
+APA Staff
+Lynn F. Bufka
+Practice Transformation and Quality Practice  Directorate
+Elizabeth H. Lin (vice-chair)
+University of Washington School of Medicine
+New Yo rk, New York	Raquel W.Ha/ fond
+Practice Transformation and Quality
+
+Jacques P. Barber
+Gordon F. Derner School of Psychology A delphi University
+
+Alfiee M. Breland-Noble
+A AKOMA Project A rlington, Virginia
+
+Pim Cuijpers
+Faculty of Behavioural and Movement Sciences Vrijie Universiteit A msterdam, Netherlands
+
+Leslie S. Greenberg
+Department of Psyc hology
+Yo rk University, Toronto, Ontario, Canada
+Laura H. Mufson
+Department of  Psychiatry
+Columbia University College of Physicians and Surgeons
+
+Arthur M. Nezu
+Department of Psychology Drexel University
+
+Charles F. Reynolds, Ill
+Department of  Psychiatry
+University of Pittsburgh School of Medicine
+
+Forrest Scogin, Jr.
+Department of  Psychology University of A labama
+Practice Directorate
+
+Howard S. Kurtzman
+Science Directorate
+ABSTRACT
+The American Psychological Association developed this clinical practice guideline to provide recommendations  for the treatment  of  depressive disorders (including major depression, subsyndromal depression, and per­ sistent depressive disorder). It addresses three developmental cohorts: children and adolescents; general adults; and older adults (ages 60 and over). Ten systematic reviews and meta-analyses, along with other litera­ ture and observations from practitioners and patients, served as the basis for the guideline. The guideline development  panel consisted of health professionals from psychology, psychiatry, and primary care as well as community members who self-identified as having had depression. The panel examined the efficacy of psychological treatments and of comple­ mentary and alternative medicine treatments.  It also examined compara­ tive effectiveness among psychological treatments (by themselves and in combination  with  pharmacotherapy)  and  comparative  effectiveness  of psychological treatments  in relation to pharmacotherapy and to comple­ mentary and alternative treatments. The panel made no treatment recom­ mendations  specific  to  children  but  did  make  recommendations  for treatment of depression in adolescents, adults, and older adults. These recommendations are detailed in the guideline.
+
+Keywords: Depression; clinical practice guideline; best practices
+
+
+
+
+INTENDED USE OF GUIDELINE
+This guideline is intended to be aspirational and is not intended to create a requirement for practice. It is not intended to limit scope of practice in licensing laws for psychologists or for other independently licensed profes­ sionals, nor limit coverage for reimbursement by third party payers. Nor is the guideline intended to be used within a legal or judicial context to imply that  psychologists  or  other  independently  licensed  professionals  are required to comply with any of its recommendations.
+The term guideline refers to statements that suggest or recommend
+specific  professional  behavior, endeavor, or conduct  for  psychologists and may be useful for other clinicians. Guidelines dif fer from standards in that standards are mandatory and may be accompanied by an enforce­ ment mechanism. Thus, guidelines are aspirational  in intent. They are intended to facilitate the continued systematic  development  of the pro­ fession and to help assure a high level of professional practice by psy­ chologists. Guidelines are not intended to be mandatory or exhaustive and may  not be applicable to every  professional and clinical  situation. They are not definitive, and they are not intended to take precedence over the judgment of psychologists.  Please refer to the APA's  (2015a) Professional Practice Guidelines: Guidance for Developers and Users for a discussion of the several types of guidelines produced by APA. Clinical practice  guidelines  are  an  important  tool  for  determining  intervention options but are not the only resource.
+Clinicians  are  encouraged  to  consider  the  report  from  the  APA Presidential  Task   Force  on  Evidence-Based   Practice  (APA,  2006), Evidence- Based Practice in Psychology, which emphasizes the integration of best available research; patient characteristics, culture, and preferenc­ es; and clinical expertise for making treatment decisions.
+In reviewing the recommendation statements, the panel reminds the reader that a lack of evidence about a treatment does not imply that that treatment is not efficacious. Rather, there are several gaps in the
+literature about treatments as well as limitations in the specific literature reviewed by the panel due to methodological constraints, as discussed later in the guideline document. Clinicians are encouraged to provide informed consent to patients.
+
+
+
+INDIVIDUALIZING  TREATMENT
+Clinicians strive to individualize treatments. So how might one follow evidence-based clinical practice guidelines, yet honor the individuality of patients? A comprehensive assessment can help identify factors that might require modifications to a treatment recommended by clinical practice guidelines. These include patient factors such as race; ethnicity; socioeconomic status; culture and/or heritage; or other features of their identities, values, or preferences. In addition, the patient's comorbidities, social support, and ability to obtain childcare when needed, as well as the clinician's accessibility, location, hours of operation, available appoint­ ments, proximity to public transportation, and other resources that can affect treatment, must be considered. Further, provider and setting fac­ tors like constraints tied to duration of treatment, provider availability, or other factors will impact the application of a treatment recommended by a clinical practice guideline. Combining an individual assessment with the research summarized in the clinical practice guideline can help develop a conceptualization of the change processes that underpin the ef fective treatment to guide individualization decisions. This can promote "flex­ ibility within fidelity" (Kendall, Gosch, Furr, & Sood, 2008) to facilitate the use of research-supported change processes to achieve the patient's goals while individualizing the specific strategies. Especially when a rec­ ommended treatment is modified, providing full informed consent about possible treatments is necessary. It is also important across models to set individualized treatment goals collaboratively with the patient and clearly monitor progress on those goals. All these steps can help provid­ ers use the guidelines in a way that respects the enormous variability in patients' needs and backgrounds. For more information about individu­ alizing treatments, see p. 43 of this guideline.
+TABL E OF CONTE NTS
+
+
+
+Considerations for Treatment Implementation	41
+Importance of Informed Consent	41
+Improving Access While Supporting Patient Culture, Values, and Preferences	42
+Table 6: Patients' Values and Preferences	42
+Adapting Treatment to Fit the Individual	43
+Considering Patients' Diverse Backgrounds, Identities, and Comorbidities	44
+Generalizability of Treatments to Different Settings and Providers	44
+Monitoring Engagement with Treatment	44
+Contributions from Shared and Specific Factors
+to Treatment Outcome	45
+Enhancing Therapeutic Alliance and Other
+Principles/Processes of Change	46
+Change Principles	47
+Change Mechanisms	47
+Change Events	47
+How the APA Clinical Practice Guideline Compares to Other
+Clinical Practice Guidelines for Treatment of Depression	48
+Challenges in Developing the Guideline
+and Recommendations for Future Efforts	51
+Considerations Regarding Guideline Scope	51
+Implications of Alignment with the Institute of Medicine Standards	52 Limitations of Existing Treatment Research Literature		53
+Need for a Clearer Taxonomy of Psychotherapies	55
+Need for Rigorous Comparisons of Treatments
+and Treatment Modality	56
+Improving Methodology and Reporting in Treatment Studies	56
+Testing Moderators and Mediators of Treatment Outcome	56
+Funding  Needs	57
+Conclusion	58
+Conflicts of Interest	59
+Author Disclosures	59
+Developer	61
+Funding Source/Sponsor	61
+Acknowledgments	61
+References	62
+
+
+
+
+
+
+
+
+
+
+
+EX ECU TIVE SUMMARY
+
+
+
+
+Scope
+
+This guideline is intended to provide recommendations for the treatment of depressive disor­ ders (including major depression, subsyndromal depression, and persistent depressive disor­ der1) based on systematic reviews of the evidence. It addresses three developmental cohorts: children and adolescents, general adults, and older adults (ages 60 and over2 ). Ten systematic reviews and meta-analyses (Cipriani et al., 2016; Cuijpers, Driessen, et al., 2012a; Cuijpers, Karyotaki, Pot, Park,& Reynolds, 2014a; Cuijpers, Koole, van Dijke, Roca,& Reynolds, 2014b; Cuijpers, Danker, Weissman, Ravitz, & Cristea, 2016; Driessen et al., 2015; ECRI Institute, 2015; Gartlehner et al., 2015; Wilkinson & lzmeth, 2012; Zhou et al., 2015) served as the basis for this guideline. This guideline addresses the efficacy of psychological and complementary and alternative  medicine treatments , the comparative  effectiveness  of  psyc hotherapy in combination w ith pharmacotherapy as we ll as compared to pharmacotherapy and comple­ mentary and alternative treatments .3 For child and adolescent populations only, the guideline also examines the efficacy of medications, but because other existing guidelines adequately address this for adults, the panel chose not to review this body of evidence. The guideline then addresses harms and burdens of treatment and patient4 va lues and preferences. The reviews on w hich this guideline is based did not specifically address screening for depression , assess­ ment of  associated  comorbid conditions  (e.g., suicidality, medical  problems), monitoring response to treatment , locus of care, prevention of depression, dose, timing or duration of treatments for depression, costs of treatment , long-term benefits of treatment , mechanisms of change, bipolar disorder, or efficacy of treatments for disorders other than depression .
+
+
+
+
+Note that psychot ic depression is not covered by this guideline. The panel recognizes this as an important sub­ set of depression. However, the scope of the guideline is currently extensive, and the incorporat ion of psy­
+chot ic depression would have required addit ional reviews focusing on antipsychotic medications.
+2   Although the panel def ined older adults as ages 60 and over, at least one study included in the older adult reviews included individuals as young as 50. This resulted in some overlap between the general adult and older adult populat ions that the panel was not able to separate out due to the way the data was analyzed. However,
+a major ity of studies def ined older adults as ages 60 and up and individual studies that def ined older adults as 50 and up will be noted. This overlap may be considered by clinicians when making recommendat ions for indi­ vidual patients that fall within this age range.
+3	The panel initially intended to include somat ic treatments, but due to limitat ions in the ava ilable reviews the current guideline does not address these areas.
+4	To be consistent with discussions of evidence-based practice in other areas of health care, we use the term patient to refer to the child, adolescent, adult, older adult, couple, family, group, organ izat ion, community, or other populat ions receiving psychological services. However, we recognize that in many situat ions there are important and val id reasons for using such terms as client, consumer or person in place of patient to descr ibe the recipients of services.
+These topics are important to patient care and discussed as appro­ priate, but the guideline does not contain specific recommendations in these domains. The Process and Methods section details the panel's decision-making throughout  guideline development.   It is important to note that the phrase "insufficient evidence" indicates that there we re not enough data to provide for definitive recommen­ dations. Howeve r,this lack of data can be due to the situation w here
+(a)	no relevant studies existed w ithin the time frame of this review,
+(b)	a very small number of releva nt studies existed, or (c) multiple relevant studies existed but only provided equivocal findings. In addi­ tion,the lack of releva nt studies can ex ist even if multiple studies did compare certain interventions but did not provide robust findings, as we ll  as  no  studies  we re  conducted  that  included  comparisons betwee n va rious interventions.
+
+
+
+Background
+
+Major depression is the second leading cause of disability as of 2013 both wo rldwide (Vos et al., 2015) as we ll as in the United States (U.S. Burden of Disease Collaborators, 2013). Major depressive disorder is characterized by a depressed mood (or irritability in children) or loss of pleasure or interest for at least 2 weeks (American Psychiatric Association, 2013). It is also accompanied by at least three (for a total of at least five) of the following symptoms present most days: we ight loss or change in appetite, insomnia or hypersomnia, psychomotor retardation or agitation, fatigue or loss of energy, excessive/inappro­ priate guilt or feelings of wo rthlessness,indecisiveness or diminished ability to concentrate or think, and recurrent thoughts of death or suicidal ideation or suicide plan or attempt (American Psychiatric Association, 2013). Another depressive disorder, persistent depres­ sive  disorder  (formerly  called dysthy mia)  in the  Diagnostic  and
+Statistical M anual of M ental Disord ers (5th ed.; DSM-5; American
+Psyc hiatric Association, 2013), is characterized by a depressed mood most of the time for at least 2 years, along w ith at least two of the following  symptoms:  feeling  hopeless, insomnia  or  hypersomnia, overeating or poor appetite, fatigue or low energy, low self-esteem, and  indecisiveness or  poor concentration  (American  Psyc hiatric Association, 2013). In children and adolescents, the mood can be irritable,and the duration of persistent depressive disorder is at least
+1 yea r. Moreover, there cannot be a gap in these symptoms for more than 2 months,a hypomanic or manic episode during this time period, nor criteria  met for  cyclothymic  disorder, and symptoms  are  not better explained by another disorder,cause significant impairment in functioning or distress, and are not due to a different medical condi­ tion or a substance use disorder (American Psyc hiatric Association, 2013). For patients that do not meet full criteria for the aforemen­ tioned depressive disorders (depressive episode w ith insufficient symptoms) but either experience recurrent episodes of depressed mood and at least four other symptoms of depression for 2-13 days
+(recurrent brief depression) or experience a depressive episode for 4-13 days (short-duration depressive episode), the DSM-5 presents this as Other Specified Depressive Disorder (American Psyc hiatric Association, 2013).5
+The current guideline is designed to complement the existing knowledge base in several ways. It covers a broad range of the pop­ ulation (children through  older  adults)  and  includes  psychothera­ peutic interve ntions. Earlier guidelines have either been completed 5 or  more years  prior, provided limited guidance  on psychothera­ pies, or focused on recommendations for a specific population. The current  guideline  follows  the  Institute  of  Medicine  (IOM, 2011a; IOM, 2011b) 6  standards to the extent  possible for  rigorous guide­ line development. This guideline is also intended for a broad inter­ national audience, not only for individuals in the United States.
+
+
+
+Process and Method
+
+Undertaking the creation of a guideline requires several key decisions. APA's Advisory Steering Committee issued a call for nominations (including self-nominations) for individuals to serve as panel members from a va riety of backgrounds (patient, psyc hology, psychiatry, general medicine)  w ith  content  knowledge  or  methodological  expertise. Conflicts of interest (financial and nonfinancial) were considered and managed both during panel member selection and throughout the guideline  development  process. Research  Triangle  International­ University of North Carolina (RTl-UNC) Evidence-Based Practice Center and American Psychological Association (APA) staff used the Population,  Interventions, Comparators,  Outcomes, Timing, and Settings (PICOTS) framewo rk (a systematic approach to conducting a comprehensive literature review of a clinical subject matter) to guide the panel during its initial question-formulation stage.
+In selecting w hich outcomes we re most critical for deciding on the level or strength of a recommendation, the panel dec ided that response to treatment (reduction in depressive symptoms) and seri­ ous associated harms/adverse events we re critical. The panel fur­ ther decided that the following additional outcomes we re important: remission (no longer having symptoms), quality of  life, functional capacity, patient satisfaction, relapse, recurrence, and suicidality.
+The guideline was deve loped in a series of phases, based on the three developmental cohorts.   Briefly, w ith the support of the RTl-UNC Evidence-Based Practice Center scientists, the older adult literature was rev iewed based on the results of an umbrella review they conducted to determine existing systematic  reviews in the lit­ erature. RTl-UNC Evidence-Based Practice Center scientists devel­ oped evidence profiles for the panel compiling data from rev iews by Wilkinson and lzmeth (2012) and Cuijpers, Karyotaki, Pot, et al. (2014a). For the general adult section, the panel used data from an existing systematic  review by RTl-UNC Evidence-Based Practice Center scientists (Gartlehner et al., 2015). The panel supplemented
+
+
+
+5	However, the systemat ic reviews and studies that are discussed in this guideline use the broader def initions "subclinical" or "subsyndromal" depression (i.e., Cuijpers, Koole, van Dijke et al., 2014).
+6	Of note, as of March 2016, the division of the National Academ ies of Sc iences, Engineering, and Medicine (the National Academ ies) formerly known as Institute of Medicine (IOM) was renamed the National Academy of Medicine (NAM). Despite the recent name change, the guideline will use IOM when referring to the IOM stan­ dards for guideline development and systemat ic reviews.
+this  to fill  in gaps  of  information w ith data  from  several  others reviews that  met quality criteria  based on either an AMSTAR  (A Measurement Tool to Assess Systematic  Reviews; an instrument used to evaluate systematic reviews and meta-analyses for quality; Shea et al., 2007) review (Cuijpers, Driessen, et al., 2012a; Cuijpers, Koole, et al., 2014b; Cuijpers et al., 2016; Driessen et al., 2015) or having followed  IOM systematic  review standards (ECRI Institute, 2015). Specifically, this AMSTAR instrument consists of a checklist assessing 11 items and was used by scientists who were not panel members to evaluate systematic  reviews for quality. For the child and adolescent  literature, the panel used two systematic  reviews/ meta-analyses  that  met  quality  criteria  based  on  an  AMSTAR review: Cipriani et al. (2016) and Zhou et al. (2015). Based on the results of the umbrella review as well as follow-up AMSTAR quali­ ty reviews, it was determined that existing systematic reviews and meta-analyses were of suf ficient  breadth and quality such that it was not necessary to commission a de nova review. The panel uti­ lized systematic  reviews/meta-analyses  that  were  current  within the past 5 years at the time the panel made its recommendation decisions that met IOM (2011b) development and AMSTAR quality standards. While this is consistent with rigorous guideline develop­ ment, the panel noted this approach can be limiting in that studies exploring the efficacy of psychotherapy are not conducted equally across modalities and are not regularly updated every 5 years due, in part, to psychotherapy  research receiving support from govern­ ment  funds  (rather than  private  companies).  Altogether,  system­ atic reviews and meta-analyses conducted more than 5 years ago were not explicitly examined by the panel.
+The panel considered four factors as it drafted recommenda­ tions based on IOM standards: (1) overall strength of the evidence,
+(2) balance of  benefits versus  harms/burdens , (3)  patient values and preferences, and (4) applicability.  Based on the combination of these factors, the panel made a recommendation  or condition­ al  recommendation  for  or  against  each  particular  treatment  or made a statement that there was insufficient evidence to be able to make a recommendation for or against. The panel used a tool called a decision table (created by APA staff) to document its deci­ sion-making  process  for  each  recommendation  for  older  adults. Copies of the decision tables are available in Appendix  C of the supplemental  materials. The  panel later streamlined the decision table to a "grid" to document  decision-making, which can also be found in the supplemental materials (linked separately).
+
+
+
+Discussion
+
+Throughout the panel's discussions, it was emphasized that patient values and preferences should be taken into consideration through shared decision-making with the clinician. Clinicians using this guideline are encouraged to consider challenges faced by patients such as barriers to treatment (i.e., structural and perceptual) .
+While the panel followed a rigorous methodological process for guideline development , the panel identified challenges and limitations to consider for future efforts. The panel tried to be as broad as possible and used the PICOTS outline, but the scope could not be all-encompassing and thus excluded many important
+populations  (i.e., reviews focused exclusively  on individuals with comorbid  medical  disorders), and  settings  (i.e.,  inpatient, collab­ orative care) were not included in the reviews. Another challenge was balancing adherence to the IOM (2011a) standards for rigor­ ous guideline development while also including adequate coverage of the  research literature. We discuss these  limitations  in full on
+p. 53 of the guideline.  Further, the panel noted a wide range of research concerns, including that many of the studies included in reviews were of low quality. In particular, the panel noted the need to expand the research literature to specifically include underrep­ resented and underserved populations , including people of diverse racial/ethnic and cultural heritage backgrounds, gender and sex­ ual minority populations , and socioeconomically diverse groups. In addition to the multifocal call for inclusivity in research design and funding to better address the needs of diverse populations,
+including those  that  experience  lower  SES,  we  encourage  clini­ cians to refer to APA's (2017b) M ulticultural Guidelines: An Ecological Approach to Context, Identit y, and lntersectionalit y to assist in imple­ mentation of  recommendations . The  labeling of  psychotherapies is a challenge as well, given the large variability in how a system­ atic review team clusters particular forms of psychotherapies (i.e.,
+"cognitive-behavioral  approaches"  includes  a  number  of  specific treatments such as problem-solving therapy and dialectical behav­ ior therapy; see Table 2 in Appendix G for details).
+Additional  limitations the panel noted across cohorts include that much research is highly dependent on federal research funding, particularly psychotherapy  research. Also, there are differences in the amount of research evidence available for different therapeutic approaches (e.g., there is more evidence available for cognitive-be­ havioral therapy than for psychodynamic therapy  and hardly any for humanistic  therapies) . Each of these factors  limits the broad applicability  of  research  findings . Further, while  much  research focused  on  symptomatic  change,  more  research  is  needed  on additional important outcomes such as patient-centered outcomes (i.e., quality  of  life and interpersonal  relationships, social engage­ ment, occupational  functioning) . Research is also  needed on the moderators of treatment  and outcomes, matching of patients with treatments , and innovative approaches to dissemination (e.g., col­ laborative care and integrated care). Finally, the panel agreed that the body of the depression treatment research literature needs far more attention on patient  populations  that  have comorbid  condi­ tions; long-term outcomes  of psychotherapy; treatment  for  racial­ ly, ethnically, or socioeconomically  diverse populations as well as marginalized communities and gender diverse populations; as well as a personalized medicine approach to treatment.
+
+
+
+Recommendations
+
+In reviewing the recommendations from the panel, it is important for the reader to be familiar with the definition of several terms as follows:
+
+Treatment as usual. Refers to the care that is customarily provided in a particular situation. The panel notes the challenge of a consistent definition of treatment as usual, given that the exact definition can vary by study.
+No treatment. No active treatment was provided (i.e., waitlist).
+
+Efficacy. The impact of an intervention compared to an inactive control.
+
+Comparative effectiveness. Compares at least two different active treatments to each other to assess for the benefits of one (or combi­ nation) versus the other (or combination).
+
+The tables  below list the recommendations  from the APA guideline development panel for treating depression in children and adolescents, the general adult population, and older adults. Note that the recommendations pertaining to efficacy do not imply that these treatments are superior to other active treatments. Further note that the recommendations made by the panel are based on the literature that was included in the guideline (i.e., that met inclu­ sion criteria)  and not all the literature on depression treatment. Whenever  possible, the tables  list which treatments work  best for which patients and under what conditions (i.e., treatment for a particular diagnosis for an older adult population with a particular condition). But when not noted, this information was not available. Please see Appendix I for details about the interventions (i.e., dos­ ing, timing) and Appendix J for a list of interventions that were part of the search but for which there was not enough high-quality evi­ dence to make a determination. The ultimate decision about treat­ ment should be based on shared decision-making with the patient and, in the case of youth patients, the parents/guardians or family members actively involved in their care.
+The  panel used the following as guidance for  its decision making:
+1.	The panel recommended treatments that were consistent­
+ly superior to nonactive control conditions or for which there was evidence of equivalency or superiority to other treatments.
+2.	The panel conditionally recommended treatments that were
+consistently superior to nonactive control conditions but there were either:
+a.	Other active treatments that were superior to the treatment being conditionally recommended.
+b.	Insufficient   evidence  that  the  treatment   was equivalent to other effective treatments.
+c.	Greater	harms/burdens	than	with	other treatments.
+3.	The  panel  did  not  recommend  treatments  or  recom­ mended  against  treatments  if  there  was  insufficient evidence of efficacy or if the harms were considered to outweigh any benefits.
+The panel's recommendations are as fo llows7 :
+
+
+
+TA BLE 1
+Recommendations for the Child Population from the APA Guideline Development Panel for the Treatment of Depression 8
+
+
+
+Recommendation
+
+Strength of Recommendation
+
+Justification
+
+Initial Treatment
+For initia l treatment of child patients with depressive disorders9 there was insufficient evidence to make a recommendation rega rding any of the following psychotherapies/interventions10:
+. Behavioral therapy
+. Cognitive therapy
+. Cognitive-behavioral therapy
+. Family therapy
+. Play therapy
+. Problem-solving therapy
+. Psychodynamic therapy
+. Supportive therapy
+There was insufficient evidence to make a recommendation regarding pharmacotherapy for child patients with depressive disorders.
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed
+that met the AMSTA R requirements, there was insufficient evidence to ei- ther recommend or not recommend use of the listed psychotherapies/ interventions in children with depres- sive disorders.
+Based on the literature reviewed
+that met the A MSTA R requirements there was insufficient evidence to ei- ther recommend or not recommend pharmacotherapy for child patients
+with depressive disorders. The panel noted safety concerns with using pharmacotherapy w ith children and recommends shared decision-mak- ing regarding medication options
+with a child psyc hiatrist in addition to the clinician, patient, and their parents/guardians or fa mily mem- bers actively involved in their care.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7	Please refer to the sect ion on scoping (p. 29) for the list of topics that the guideline does and does not address. For the list of descr iptions of treatments der ived from research included in the reviews, please refer to Append ix A of the supplement.
+8	For f urther details about the evidence underlying each guideline statement please refer to the child/adolescent grid accompany ing the supplemental materials. In this grid, the informat ion on effect sizes incorporated from Figure 3 on p. 216 of Zou et al.'s (2015) review is presented first across the top row followed by informat ion for the
+Cipriani et al. (2016). Each column in the grid reflects a particular treatment or treatment compar ison from the reviews wh ile each row reflects a particular outcome (i.e., reduct ion in depressive symptoms) . The effect size along with relevant informat ion (i.e., confidence interval) is presented at the intersect ion of rows and columns. This is followed by informat ion on the panel's ratings of the benefits, harms, balance of benefits vs. harms, patient values and preferences, applicability, and overall recommenda­ t ion statement for each intervent ion or compar ison of treatments.
+9	Types included: minor depression, major depression, persistent depressive disorder (formerly called "dysthymia"), intermittent depression, or having depression symptoms at or above a prespec ified level based on a validated measure of depression sever ity. The Zhou et al. (2015) review excluded patients with psychot ic depression.
+10	Throughout the table, interventions are listed alphabet ically.
+TA BLE 2
+Recommendations for the Adolescent Population from the APA Guideline Development Panel for the Treatment of Depression11
+
+
+Recommendation
+
+Strength of Recommendation
+
+Justification
+
+Initial Treatment
+For initia l treatment of adolescent patients w ith depressive disorders" the panel recommends that clinicians offer one of the following psycho- therapies/interventions13
+.	:
+. Cognitive-behaviora I therapy
+Interpersonal psychotherapy adapted for adolescents (IPT-A)
+The panel recommends fluoxetine as a first-line medication compared to other medications for adolescent patients with major depressive
+disorder, specifically when considering medication options.
+There was insufficient evidence to recommend either treatment (psy- chotherapy or fluoxetine) over the other for major depressive disorder.
+
+Recommendation for use
+
+Based on the literature reviewed
+that met the AMSTAR requirements, cognitive-behaviora l therapy and interpersona l psychotherapy adapt- ed for adolescents (IPT-A) were the only psychotherapy interventions
+with evidence of efficacy.
+
+Additional psychotherapy recommendations for initial treatment
+
+If neither recommended psychotherapy is available or neither is accept- able to the patient and their parent/guardian, the panel suggests con-
+sidering an alternative model. Howeve r, at this time, while the follow ing interventions have been evaluated in adolescents, there is insufficient
+evidence to recommend for or against clinicians offering any one of the
+following psychotherapies/interventions over the others:
+. Behaviora I therapy
+. Cognitive therapy
+. Family therapy
+. Problem-solv ing therapy
+. Psychodynamic therapy
+. Supportive therapy
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed
+that met the AMSTAR requirements, for a ll interventions except for cog- nitive-behavioral therapy and inter- personal psyc hotherapy adapted for adolescents (IPT-A), evidence was not strong enough to determine that any one therapy was superior to an- other. Decision should be based on
+shared decision-making w ith youth patients, their parents/guardians, or family members actively invo lved in their care.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11	For further details about the evidence underlying each guideline statement please refer to the child/adolescent grid accompanying the supplemental materials. In this grid, the information on effect sizes incorporated from Figure 3 on p. 216 of Zou et al's (2015) review is presented first across the top row followed by informat ion for the Cipriani et al (2016). Each column in the grid reflects a particular treatment or treatment comparison from the reviews while each row reflects a particular outcome (i.e., reduct ion
+in depressive symptoms). The effect size along with relevant informat ion (i.e., confidence interval) is presented at the intersection of rows and columns. This is followed by informat ion on t he panel's ratings of the benefits, harms, balance of benefits vs. harms, patient values and preferences, applicability, and overall recommendat ion state­ ment for each intervent ion or compar ison of treatments.
+12	Types included: minor depression, major depression, persistent depressive disorder  (formerly called "dysthymia"), intermittent depression, or having depression symptoms at or above a prespecified level based on a val idated measure of depression sever ity. The Zhou et al. (2015) review excluded patients with psychot ic depression
+13	Throughout the table, intervent ions are listed alphabet ically.
+
+
+
+Additional pharmacotherapy guidance for initial treatment
+Information is lacking rega rding other medication options for adoles- cents. Thus, if fluoxetine is not a treatment option or is not acceptable, the panel recommends shared decision-making rega rding medication options w ith a child psyc hiatrist in addition to the clinician, patient,
+and their parents/guardians or family members actively invo lved in their care.
+
+Conditional recommendation for use
+
+Recommendation is due to safety concerns such as increased suicide risk for adolescents when using other medications.
+
+In general, the panel recommends aga inst using the following medica- tions for adolescent patients w ith major depressive disorder. However, w hen other options are not available, effective, and or acceptable to the patient, the panel recommends shared decision-making between the
+patient and clinician.
+. Clomipramine
+. lmipramine
+. Mirtaza pine
+. Paroxetine
+. Venlafaxine
+If these medications are being considered, the panel recommends:
+. paroxetine over clomipramine w hen both are being considered.
+. paroxetine over imipramine w hen both are being considered.
+. There was no information ava ilable for other comparisons between
+the listed medications.
+
+Recommend against use
+
+Based on the literature reviewed
+that met the AMSTAR requirements the panel recommends against the medications as noted due to safety concerns with using these medica- tions on adolescents.
+Further, the panel recommends only choosing betwee n the medications as noted w hen other options have been exhausted or are unava ilable.
+This is due to safety concerns w ith
+using these medications on children.
+TA BLE 3
+Recommendations for the General Adult Population from the APA Guideline Development Panel for the Treatment of Depression 14
+
+
+Recommendation15
+
+Strength of Recommendation
+
+Justification
+
+Initial Treatment
+
+Psychotherapy and Pharmacotherapy
+For initia l treatment of adult patients with depression,16 the panel rec­ ommends the following in the context of sharing decision-making w ith the patient when considering options:
+1.	That clinicians offer either psychotherapy or second-generation antidepressa nt.17
+•	W hen selecting betwee n treatments, the panel recommends considering the following options:
+•	Second-generation  antidepressants
+•	The panel found that effectiveness studies demonstrated similar effects across psychotherapy. Thus, the panel is not able to recommend specific monotherapies for initia l
+treatment. General models that appear to have comparable effects include:
+•	Behaviora I therapy
+•	Cognitive, cognitive-behavioral, and mindfulness-based cognitive-therapy
+•	Interpersonal  psychotherapy
+•	Psychodynamic therapies
+•	Supportive therapy
+2. If considering combined treatment, the panel recommends cog­ nitive-behavioral therapy or interpersona l psyc hotherapy plus a second-generation  antidepressant.
+
+Recommendation for  use
+
+Based on the literature reviewed that met the IOM or AMSTA R require­ ments, comparative effectiveness research finds either similar effects between treatments  or  insufficient
+evidence to determine that one treat­ ment can be offered over another.
+
+For adult patients with depression w ho are a lso experiencing relation­
+ship distress, if a recommended treatment is not acceptable or available, the panel suggests that clinicians offer problem-focused couples'
+therapy.
+W hen selecting betwee n treatments the panel suggests considering the following options:
+•	Suggest behavioral therapy rather than antidepressant medication a lone.
+•	If considering combined treatment, the panel suggests cognitive therapy plus antidepressant medication to improve likelihood of full recovery in treatment.
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTA R require­ ments, if a  recommended treatment is not ava ilable or acceptable, the panel suggests the listed interven­ tions, which demonstrated efficacy
+when compared with no treatment (i.e., waitlist) or control.
+
+
+
+
+
+14	The recommendat ions made by the panel are based on the literature that was included in the guideline (i.e., that met inclusion criter ia), and not on all the literature on depression treatment.
+15	For further details about the evidence underlying each guideline statement please refer to the general adult grid accompany ing the supplemental materials. In this grid, the informat ion for the Gartlehner et al. (2015) is present first across the top row followed by the addit ional reviews, Cuijpers et al. (2014), Driessen et al. (2015), Cuijpers et al. (2012), VA/DoD evidence synthesis report (ECR I Institute, 2015), and Cuijpers et al. (2016). Each column in the grid reflects a particular treatment or treatment compar i­ son from the reviews while each row reflects a particular outcome (i.e., reduction in depressive symptoms). The effect size along with relevant information (i.e., confidence interval) is presented at the intersect ion of rows and columns. This is followed by informat ion on the panel's ratings of the benefits, harms, balance of benefits vs. harms,
+patient values and preferences, applicability, and overall recommendat ion statement for each intervent ion or compar ison of treatments.
+16	The depression recommendat ions refer to the f ull range of depression diagnoses identified by the panel for inclusion unless a recommendat ion spec ifies otherw ise. Note that recommendat ions do not pertain to psychotic depression.
+17	Throughout the recommendat ions, both the terms "ant idepressant medicat ion" and "second-generat ion antidepressant" are used. Note that "second-generat ion ant ide­ pressants" refers spec ifically to select ive serotonin reuptake inhibitors (SSR ls) or seroton in-norepinephrine reuptake inhibitors (SNR ls) while the term "ant idepressant medicat ion" could include second-generat ion antidepressants as well as other ant idepressants.
+
+
+For adult patients with depressio n, there is insufficient evidence to recommend for or aga inst clinicians offering:
+. CBAS P (cognitive behaviora l analysis system of psychotherapy)
+. Brief problem- so lv ing therapy (10 or fewer sessions) vs. treatment
+as usual.
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTA R require- ments the evidence was insufficient to be able to recommend for or
+against the listed interventions or treatment comparisons.
+Decision should be based on shared decision-making with the patient.
+Complementary and Alternative Treatments••
+For adults w ith depression for whom psychotherapy or pharmacothera- py is either ineffective or unacceptable the panel suggests the fo llowing
+options:
+. Exercise Monotherapy19
+. St. John's Wort Monotherapy20
+If neither is acceptable or available, the panel suggests consideration of
+. Bright light therapy"
+. Yoga"
+. If considering adjunctive treatments, the panel suggests adding
+acupuncture to antidepressant medication.23 There is insufficient evidence to recommend
+•. Tai Chi
+. Acupuncture Monotherapy
+. Combination of  second-generation antidepressant and acupuncture
+. Omega-3 Fatty Acids Monotherapy
+Combination of  second-generation antidepressant and Omega -3
+. Fatty Acids
+. S-A denosy l Methionine Monotherapy
+Combination of  second-generation antidepressant and exercise
+
+
+Conditional recommendation for use
+
+
+
+
+
+Conditional recommendation for use
+
+
+
+
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTA R requirements, evidence indicates no difference in effects between St.
+John's Wort and second-generation antidepressa nts and indicates some sma ll to medium benefits of the
+other suggested complementary and alternative treatments.
+Evidence is insufficient to recom- mend the last list of complementary and alternative treatments as noted.
+
+For adult patients with subclinical depression, the panel suggests that clinicians offer psychotherapy24 (psychotherapy in general including both cognitive-behavioral therapy and noncognitive-behavioral therapy
+psychotherapies [e.g., interpersonal counseling, problem-solving thera- py, life review therapy]).
+
+Conditional recommendation for use
+
+W hen subclinical depression is the focus of treatment, based on the literature reviewed that met the IOM or AMSTA R requirements, the panel suggests the listed interventions,
+which demonstrated efficacy w hen compared with control.
+
+
+
+
+
+
+
+
+
+
+18	The panel urges caut ion w hen using over-the-counter agents to prevent unintended drug-drug interactions particularly given var iable manufactur ing pract ices.
+19	Patients in these tr ials had moderate to severe depression, accord ing to the HAM-D Scale (Babyak et al., 2000; Blumenthal et al., 1999, 2007; Hoffman et al., 2008). The panel gave a conditional recommendat ion because it had only efficacy data and not comparat ive effect iveness data.
+20	The trials included patients w ith moderate to severe depression.
+21	Included patients aged 60 years and older w ith a diagnosis of MDD.
+22	Based on a tr ial with female patients between 18 to 40 years of age.
+23	Trials included patients with a diagnosis of MDD or poststroke depression and were between 33 to 60 years of age.
+24	Recommendat ion also includes separate examination of non-cogn it ive behavioral therapy approaches. Psychotherapy in general also found to reduce f uture episodes of major depressive disorder.
+
+
+PARTIAL or NONRESPONDERS to INITIAL ANTIDEPRESSANT  TREATMENT
+
+For adult patients with depression w ho have either not responded or
+only partially responded to initia l antidepressant medication treatment the panel recommends the following options:
+1.   Switch from antidepressant medication a lone to cognitive therapy a lone or,
+
+2. Switch from antidepressant medication a lone to another antidepres- sant medication
+
+Recommendation for  use
+
+Based on the literature reviewed that met the IOM or AMSTA R requirements, the panel equally
+recommends the listed interventions, there is evidence demonstrating no difference in effect.
+
+For adult patients with depression w ho have either not responded or
+only partially responded to initia l antidepressant medication treatment the panel suggests that clinicians offer one of the following psychother- apies/interventions and select betwee n treatments as follows:
+1. A dd psychotherapy (interpersonal psychotherapy, cognitive-behav- ioral therapy, or psychodynamic psychotherapy)25 to the antidepres- sant medication treatment
+
+2. A ugment w ith another antidepressant medication
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or A MSTA R require- ments, the panel suggests adding one of the psychotherapies listed or aug- menting with another  antidepressant medication the treatment of adu It patients who have not responded
+or only partially responded to initia l
+antidepressant medication treatment.
+Howeve r, the panel does not suggest adding CBAS P (cognitive-behavioral analysis system of psychotherapy) or brief supportive therapy to antide- pressant medication treatment.
+For adult patients with major depressive disorder who have either not responded or only partially responded to initia l adequate second-gener- ation antidepressa nt treatment attempt there is insufficient evidence to determine differences in treatment effect for the following:
+. Switching to another second-generation antidepressant26
+. Switching to a nonpharmaco logic (i.e., cognitive therapy) monother-
+. apy
+A ugmenting w ith guided cognitive-behavioral therapy self-help
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTA R requirements the evidence was
+insufficient to be able to recommend for or aga inst adding guided cogni- tive-behavioral therapy se lf-help to
+antidepressant medication treatment or switching or augmenting among other second-generation antide- pressants or nonpharmaco logic (i.e., cognitive therapy) moda lities.
+
+RELAPSE PREVENTION
+
+For adult patients with depression w ho have achieved remission the panel suggests clinicians offer psychotherapy (cognitive-behaviora l
+therapy, mindfulness-based cognitive therapy, or interpersonal psycho- therapy) rather than antidepressant medication or treatment as usual to prevent relapse.
+There is insufficient evidence to recommend one form of the three psychotherapies  listed.
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTA R require- ments, the panel suggests psycho- therapy in genera l (cognitive- be-
+haviora l therapy, mindfulness-based cognitive therapy, or interpersona l psyc hotherapy), w hich demonstrat- ed comparative effectiveness when compared with treatment as usual
+and antidepressant medication to prevent relapse. However, there was insufficient evidence to be able to recommend a specific form of psy-
+chotherapy to prevent relapse.
+
+
+
+
+
+25	The general group of psychotherap ies included in the review (ECR I Institute, 2015) were interpersonal psychotherapy, cognitive-behav ioral therapy, and CBASP (cognit ive behavioral analysis system of psychotherapy) .  However, based on addit ional informat ion, CBASP is not recommended due to the increased burden with limited evidence of addit ional benefit.
+26	Switches included var ious medications such as bupropion, sertraline, venlafax ine, etc. Please see Table E22, pages E35-E37 of Gartlehner et al. (2015) for spec ific switch details.
+TA BLE 4
+Recommendations for the Older Adult Population from the APA Guideline Development Panel for the Treatment of Depression
+
+
+
+Recommendation
+
+Strength of Recommendation
+
+Justification
+
+INITIAL TREATMENT- Major Depressive Disorder
+
+For initia l treatment of older27 adult patients with depression, the panel recommends the following in the context of shared decision-making
+with the patient:
+
+1.   Either group life review treatment or Group Cognitive Behavioral Therapy (either a lone or added to usua l care) over no treatment
+
+2.  Combined pharmacotherapy and IPT over IPT a lone. Of note, while the study upon which this is based used nortriptyline, the panel rec- ommends a second-generation antidepressa nt due to the reduced risk of side effects.
+
+Recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments, cognitive-behavioral therapy (group) and life review (group)
+based interventions were the only interventions with adequate efficacy evidence. However, comparative
+effectiveness resea rch either finds sufficient evidence to recommend betwee n some treatment compari- sons or finds similar effects betwee n treatments.
+W hile nortriptyline was used in the past due to its efficacy and safety, practices have changed significantly, and nortriptyline is now v iewed as a second-  or  third-line  pharmacothera- py strategy for major depression. It is genera lly reserved for patients who have not done wel I with a selective
+serotonin reuptake inhibitor or a
+serotonin-norepinephrine reuptake inhibitor, w hich are generally consid- ered to be safer for older adults than nortriptyline. There is some efficacy data from systematic reviews/me-
+ta-analyses showing efficacy of second-generation  antidepressants over placebo. [Refer to Decision
+Tables 14, 18, 28 in Appendix C of the supplement.]28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27	While the panel defined older adults as ages 60 and over, there was at least one study included in t he older adult reviews that included some individuals as young as 50. However, the majority were ages 60 and over.
+28	Decision tables were used in develop ing the recommendations. These tables begin in Append ix C of the supplement.
+
+For older adult patients w ith depression, if a recommended treatment is not acceptable or ava ilable, the panel suggests that clinicians offer one of the following psyc hotherapies/interventions29 :
+. Cognitive-behaviora l therapy (individual) (either standalone or in
+co.mbination w ith usual care), w hich was found to be superior to:
+. no treatment
+. a nonspecific talk therapy control
+. usual care
+desipramine
+. Combination cognitive-behavioral therapy and nonspecific thera-
+peutic techniques (indiv idual) w ith pharmacotherapy, which was
+superior to pharmacotherapy a lone. Of note, w hile a specific study upon which this is based used desipramine, the panel recommends a second-generation antidepressa nt due to the reduced risk of side
+effects.
+. Interpersonal psychotherapy and pharmacotherapy, w hich was
+conditiona lly superior for preventing recurrence to either:
+. Supportive care
+. IPT and supportive care
+. Of note, while the study on which this is based used nortriptyline,
+the panel recommends a second-generation antidepressant due
+to the reduced risk of side effects
+. Problem-solv ing therapy (group), which was superior to reminis-
+. cence therapy (group)
+Interpersonal psychotherapy (indiv idual), which was superior to
+supportive  care
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTA R require- ments, if a recommended treatment is not ava ilable or acceptable, the
+panel suggests the use of interven- tions that  demonstrated efficacy
+when compared with no treatment (i.e., waitlist) or treatment as usual.
+Further, comparative effectiveness research finds evidence to suggest certain treatments or combinations of treatments over others. W hile
+nortriptyline and other tricyclic
+antidepressants were used in the past due to its efficacy and safety, practices have changed significantly, and nortriptyline is now viewed as a second- or third-line pharmacothera- py strategy for major depression. It is generally reserved for patients w ho have not done we ll with a se lective serotonin reuptake inhibitor or a serotonin-norepinephrine reuptake inhibitor, which are generally consid- ered to be safer for older adults than nortriptyline. There is some efficacy data from systematic reviews/me-
+ta-analyses showing efficacy of second-generation  antidepressants over placebo.  [Refer to Decision
+Tables 6, 8, 10, 11, 15, 16, 23, 35, 36 in
+Appendix C of the supplement.]
+For older adult patients w ith depression, there is insufficient evidence to recommend for or against clinicians offering
+. Problem-solv ing therapy (in-person) vs. attention control (phone
+. call) for major depressive disorder
+Problem-solv ing therapy (video call) vs. attention control (phone
+call) for major depressive disorder
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments there is insufficient evidence ava ilable to determine differences in treatment effect for the listed treat- ment comparisons for older adult patients with depression. Thus, the panel makes no recommendations of one treatment over the other for the treatments in each pair comparison. Decision should be based on shared decision-making w ith the patient. [Refer to Decision Tables 33, 34 in
+A ppendix C of the supplement.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+29	Throughout the table, intervent ions are listed alphabet ically.
+
+INITIAL TREATMENT-Subthreshold/minor   depression
+The panel suggests considering one of the fo llowing options for sub- threshold or minor depression
+. Cognitive-behavioral therapy  (internet) for subthreshold depression
+. Cognitive-behavioral therapy (indiv idual) and usual care for minor
+. depressive disorder
+Cognitive-behavioral therapy (group) and usual care for treating
+. minor depressive disorder
+Combination cognitive- behavioral therapy and treatment as usual
+rather than combination of ta lking control30 (indiv idual) and usual
+. care for older adults with minor or major depressive disorder
+Life review course (group) rather than an educational v ideo for older
+. adults with subclinical depression
+. Problem-solving therapy  (individual)
+paroxetine
+. Of note, while the study on which this is based used paroxetine,
+some argue that paroxetine is contraindicated in older adults due to its anticholinergic side effects and many geriatric psychiatrists would prefer another SSRI (i.e., escitalopram or sertraline). The panel encourages shared decision-making with patients of bene- fits versus harms of treatment.
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTA R require- ments for subthreshold depression, there was no efficacy data sufficient to recommend treatment. Thus, the panel makes the listed suggestions. W hile paroxetine was used in the past, currently many geriatric psy- chiatrists would prefer another SSRI (like escitalopram or sertraline) to paroxetine due to the anticholinergic side effects of paroxetine. [Refer to Decision Tables 3, 13, 24, 24B, 29,
+30, 31, 39, 42 in A ppendix C of the supplement.]
+The panel had insufficient evidence to recommend the following treat- ments:
+. Behavioral bibliotherapy (self-guided) vs. treatment as usua l for
+. subthreshold depression.
+Life review therapy (individua l) vs. treatment as usual for subclinical
+depression.
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTA R require- ments there is insufficient evidence available to determine differences
+in treatment effect for the listed treatment comparisons for older
+adult patients with subthreshold or minor depression. Thus, the panel makes no recommendations of one treatment over the other for the
+treatments in each pair comparison. Decision should be based on shared decision-making with the patient. [Refer to Decision Tables 38, 46 in
+A ppendix C of the supplement.]
+MOD or minor depression + cognitive impairment/dementia
+The panel suggests considering one of the following options for MDD or minor depression in the context of cognitive impairment or dementia:
+. Problem-solving therapy (individual) for older adult patients with
+. major depressive disorder and executive dysfunction31
+Problem-solving behavioral therapy (indiv idual) or pleasant events
+behavioral therapy (indiv idual) for minor or major depressive disor- der in older adults with dementia
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or A MSTAR require- ments for MDD or minor depression plus cognitive impairment/dementia, there was no efficacy data sufficient to recommend treatment. Thus, the panel makes the listed suggestions. [Refer to Decision Tables 2, 26 in
+A ppendix C of the supplement.]
+
+
+
+
+
+
+
+
+
+
+30	Participants in this condit ion received attent ion and warm interact ions from therap ists dur ing discussion of neutral top ics.
+31	Disrupt ion to cognit ive processes generally housed in the frontal lobes of the brain.
+
+
+The panel had insufficient evidence to recommend the combination of behaviora l activation therapy (individua l) and treatment as usual over treatment as usual for depressive symptoms in older adults with mild to moderate cognitive impairment.
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments there is insufficient evidence ava ilable to determine differences in treatment effect for the listed treat- ment comparisons for older adult pa- tients with MDD or minor depression plus cognitive  impairment/dementia. Thus, the panel makes no recom- mendations of one treatment over
+the other for the treatments in each pair comparison. Decision should be based on shared decision-making
+with the patient. [Refer to Deci-
+sion Table 27 in Appendix C of the supplement.]
+
+Persistent depressive disorder
+The panel suggests considering one of the following options for MDD or minor depression in the context of cognitive impairment or dementia:
+. Problem-solv ing therapy (indiv idual) or paroxetine for persistent
+depressive disorder
+Of note, while the study on which this is based used paroxetine, some argue that paroxetine is contraindicated in older adults due to its anti- cholinergic side effects, and many geriatric psyc hiatrists would prefer another SSRI (i.e., escitalopram or sertraline).
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments for persistent depressive
+disorder in older adults, there was no efficacy data sufficient to recom- mend treatment. Thus, the panel
+makes the listed suggestions. Of note, while some evidence supported problem-solv ing therapy, it was not
+significantly superior to attentional
+control conditions using either phone or video contact. W hile paroxetine was used in the past, currently many geriatric psychiatrists would prefer
+another SSRI (like escitalopram or sertraline) to paroxetine due to the
+anticholinergic side effects of parox- etine. [Refer to Decision Table 12 in Appendix C of the supplement.]
+
+MOD with medical or other complications
+The panel suggests considering the following options for patients w ith both depression and the indicated complicating factors:
+. Combination of cognitive- behavioral therapy (indiv idual) and usual
+care for minor or major depressive disorder w ith type II diabetes
+. mellitus or chronic obstructive pulmonary disease
+Multicomponent intervention (indiv idual) for treating symptoms of
+. depression in temporarily  homebound African American adults Coping improvement (group)  rather than psychotherapy32  on
+request (individual) for older adults w ith mild to severe depressive symptoms and HIV
+
+Conditiona l  recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments for MDD with medica l or
+other complications, there was no el- ficacy data sufficient to recommend treatment. Thus, the panel makes the listed suggestions. [Refer to Decision Tables 25, 37, 51 in Appendix C of the supplement.]
+
+
+
+
+
+
+
+
+
+32	Participants in this condition were able to access typical psychosoc ial services from the community (e.g., 12-step programs, support groups for A IDS, individual thera py). They also were given three brief phone calls to assess for any clinical concerns that may have arisen.
+
+PREVENTION  OF RECURRENCE-MOD
+
+For older adult patients with a history of depression, the panel recom- mends clinicians offer any of the following options:
+Either:
+. Combination interpersona l psychotherapy and pharmacotherapy
+. Combination supportive care and pharmacotherapy
+Of note, while the study on which this is based used nortriptyline, the panel recommends a second-generation antidepressant due to the reduced risk of side effects.
+The panel suggests considering the following option if the prior options are not acceptable or available:
+. Interpersonal psychotherapy (individua l) a lone
+
+Recommendation for use
+
+
+
+
+
+
+
+
+
+
+
+Conditional recommendation for use
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments, comparative effectiveness research demonstrated sufficient
+evidence for the panel to recommend some combinations of treatments over others due to differences in
+treatment effect for prevention of recurrence.
+Other treatment/combinations of treatments were equally recom- mended by the panel based on comparative effectiveness re-
+search evidence demonstrating no difference in effect for prevention of recurrence.
+W hile nortriptyline was used in the past due to its efficacy and safety, practices have changed significantly, and nortriptyline is now v iewed as a second- or third-line pharmacothera- py strategy for major depression. It is genera lly reserved for patients who have not done well w ith a selective
+serotonin reuptake inhibitor or a
+serotonin-norepinephrine reuptake inhibitor, w hich are generally consid- ered to be safer for older adults than nortriptyline. There is some efficacy data from systematic reviews/me-
+ta-analyses showing efficacy of second-generation  antidepressants over placebo. [Refer to Decision
+Tables 19, 20, 20 (pg. A- 378), 21, 22
+in Appendix C of the supplement.]
+
+For older adult patients with a history of depression there is insufficient evidence to recommend between clinicians offering cognitive-behavior- a l therapy (group) plus pharmacotherapy and pharmacotherapy a lone for preventing recurrence. Thus, the panel makes no recommendations of one treatment over the other.
+
+Insufficient evidence for a recommendation
+
+Based on the literature reviewed that met the IOM or AMSTAR require- ments, there is insufficient evidence. available to determine differences
+in treatment effect. Thus, the panel makes no recommendations of one treatment over the other. Decision should be based on shared deci- sion-making with the patient. [Refer
+to Decision Table 17 in Appendix C of the supplement.]
+FU LL GU IDE LIN E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clinical Practice Guideline for the Treatment of Depression Across
+Three Age Cohorts
+
+
+
+
+
+
+
+
+Scope of the Problem
+
+Definition of the problem. Depressive disorders (e.g., major depressive disorder, persistent depressive disorder) are some of the most prevalent, impairing, and costly disorders of any kind. The Global Burden of Disease Study reported that major depression was the third lead­ ing cause of wor ldw ide disability in 1990 and had risen to the second leading cause by 2013 bothwor ldwide (Vos et al., 2015) and inthe United States (U.S. Burden of Disease Collaborators, 2013). Major depression leads to lost wo rk productivity and increased morbidity and mortal­ ity due to direct effects associated w ith increased risk of suicide, reduced functional behaviors, and interpersonal functioning. It also leads to added consequences due to indirect effects on health through the exacerbation of other major causes of morbidity and mortality (Cuijpers, Vogelzangs, Tw isk, Kleiboer, & Penninx, 2014c; Elderon & Whooley, 2013; Katon, 2003; Liu et al., 2017) and increasing prevalence of diabetes-especially  among youth and middle-aged adults in the United States and wo rldw ide (Lin et al., 2009).
+Major depressive  disorder  is characterized  by a  depressed  mood (or  irritability  in children)  and/or  loss of  pleasure or interest for at least 2 weeks  (American Psychiatric Association, 2013). It is accompanied by at least three (for a total of at least five) of the following symptoms  present most days: we ight loss and/or change in appetite, insomnia or hypersomnia, psycho motor retardation or agitation, fatigue or loss of energy, excessive/ inappropriate  guilt  or feelings  of  wo rthlessness, indecisiveness  or  diminished  ability  to concentrate or think, and recurrent thoughts of death or suicidal ideation or suicide plan or  attempt  (American  Psychiatric  Association,  2013).  Another  depressive  disorder, per­ sistent depressive disorder, is characterized by a depressed mood most of the time for at least 2 years, along w ith at least two of the following symptoms: feeling hopeless, insom­ nia or hypersomnia , overeating or poor appetite, fatigue or low energy, low self-esteem, and  indecisiveness  or  poor concentration  (American  Psychiatric  Association,  2013).  In children and adolescents, the duration is at least one year, and the mood can be irritable. Moreover, there cannot be a gap in these symptoms for more than 2 months, a hypomanic or manic episode during this time period, nor criteria met for cyclothymic  disorder. Further, symptoms  are not better explained  by another  disorder, cause significant  impairment  in functioning or distress, and are not due to a different  medical condition or a substance (American Psychiatric Association, 2013).
+The level of population disability associated w ith depressive disorders (major depres­ sive disorder, persistent depressive disorder, subsyndromal depression , and other mani­ festations) is a function of the severity and chronic or recurrent nature of the symptoms, and the high frequency of the disorder. Unlike other chronic illnesses, first onset of major depressive disorder often occurs in late teens or early adulthood. In the United States, approximately 6.7% to 7.6% of adults report an episode of major depression in a 12-month period, w ith wo men having approximately 1.7 times the risk as men (Substance Abuse and Mental Health Service Administration, 2015; Kessler, McGonagle, Swartz, Blazer,& Nelson, 1993). In marginalized populations and those of lowe r SES, rates are likely to be significantly higher (Weinberger et al., 2017). Lifetime preva lence is estimated at 17.9%. Major depres­ sion is frequently comorbid w ith other mental health disorders , particularly anxiety disor­ ders and substance use disorders . The extensive burden on individuals, families, health care systems, and society makes it imperative to develop and implement effective tools and strategies to assess and treat major depressive disorder and other depressive disorders.
+Children and Adolescents
+
+Prevalence among children and adolescents. Depression is one of the most common  psychiatric  disorders  in adolescents  (Costello, Erkanli, & Angold, 2006) . There are reports of a 11.7% lifetime prev­ alence rate for major depressive disorder or dysthymic disorder in adolescents  based on data from the National Comorbidity Study­ Adolescent Supplement (Merikangas et al., 2010). Moreover, there was a 2.6% increase between 2005 to 2014 in adolescents experi­ encing a major depressive episode (Mojtabai, Olfson,& Han, 2016). Rates among same-aged youth of low SES, or who are members of marginalized  populations, are  believed  to  be significantly  higher (Hasin, Goodwin, Stinson,& Grant, 2005). Adolescence  is a unique period given the dramatic increase in risk for depression during this period.The impairments associated with adolescent depression also have been found to persist into adulthood and reflect the significant morbidity  and  lifelong  impairment  associated  with  the  disorder CG lied & Pine,2002; Lewinsohn et al.,1994; Lewinsohn, Rohde, Klein,
+& Seeley, 1999). The  National Comorbidity  Study-Adolescent
+Supplement found that rates of depression markedly increased among youth ages 13 through 18 years (Avenevoli, Swendsen, He, Burstein,& Merikangas. 2015) and that prevalence of major depres­ sive disorder (MOD) is two times higher in older than younger ado­ lescents as well as higher infemale than male adolescents (Avenevoli et al., 2015). Furthermore, adolescents with anxiety disorders, atten­ tion-deficit/hyperactivity  disorder, substance use disorders, and behavior disorders (i.e., oppositional defiant disorder, conduct disor­ der) have significant rates of comorbid MDD and higher risks of developing MOD, particularly severe MDD (Avenevoli et al., 2015).
+In contrast , prevalence rates for depression are lower in chil­ dren and preadolescents ranging from 0.4% to 2.5% of preadoles­ cent children (Birmaher & Rozel, 2003). These rates are for those children  meeting full diagnostic  criteria for  major depressive  dis­ order. Therefore, rates likely underestimate the impact of depres­ sion on youth, as  preadolescent  children who  present with  clini­ cally significant  symptoms  and impaired functioning , but not full clinical diagnosis are not always considered. These data may also not include significant representation of children of color or other minorities less likely to  receive evaluation and treatment. These children with subsyndromal  depression are at risk for developing depression  diagnoses  later  in childhood and adolescence . Early longitudinal  studies  of  children  with  depression  suggested  that early onset depression in children w as associated w ith a more pro­ tracted course of illness and was a marker for more severe psychi­ atric outcomes in adolescence and adulthood (Kovacs et al., 1984; Kovacs, Feinberg, Crouse-Novak , Paulauskas,& Finkelstein, 1984). Specifically, it was also associated w ith adult depression based in part  on  family  psychiatric  history  (Wickramaratne    Greenwald
+&  Weissman , 2000). The  Oregon  Adolescent   Deprssion  Study' findings suggested that childhood depression doubled the risk of experiencing depression  in adolescence, and adolescent  depres­ sion strongly  predicted depression  in early adulthood (Lewinsohn, Rohde, Seeley, Klein, &  Gotlib, 2000;  Rohde, Lew insohn, Klein, Seeley,& Gau, 2013).
+Despite the  prevalence of  symptoms, less than 1% of  com­ munity-dwelling  children  and  adolescents  in the  United  States
+receive outpatient treatment for depression each year (Avenevoli et al., 2015). In particular, racially and ethnically diverse youth con­ sistently demonstrate the greatest unmet need for mental health treatment (Alegria, Vallas,& Pumariega, 2010; Caldwell, Assari,& Breland-Noble, 2016). Children and youth living in rural, remote, and other underserved locations are least likely to receive needed mental health treatment (Blackstock, Chae, Mauk, & McDonald, 2018). Depressed children and adolescents are much less likely to receive mental health treatment than adults (Olfson, Gameroff , Marcus, & Waslick , 2003). Most youth who do use mental health services  receive them  in the school setting (Slade, 2003). Of those who reported receiving treatment for major depressive dis­ order in any setting (60.4%) in the National Comorbidity Study­ Adolescent  Supplement , only 33 .9% stated that they received treatment  specific to their depressive disorder or in a mental health service setting (Avenevoli et al., 2015). Accordingly , it is important to identify effective treatment strategies for childhood and adolescent depression to decrease current functional impair­ ments and potentially disrupt the negative developmental trajecto­ ries that can continue into adulthood .
+
+Characteristics  of depression  in children and adolescents.  With the introduction of the OSM-5,what were formerly know n as "Mood Disorders" are now referred to as "Depressive Disorders" and include Disruptive    Mood   Dysregulation    Disorder,   Major    Depressive Disorder-Single  and  Recurrent  Episodes, Persistent  Depressive Disorder, Premenstrual  Dysphoric Disorder, Substance/ Medication­ Induced Depressive Disorder, Depressive Disorder Due to Another Medical   Condition,  Other   Specified   Depressive   Disorder,  and Unspecified Depressive Disorder (American Psychiatric Association , 2013). As indicated earlier, Major Depressive Disorder-Single and Recurrent Episodes and Persistent Depressive Disorder are the dis­ orders w ith the highest prevalence in adolescents .
+Depressive disorders are generally  characterized  by a clus­ ter of symptoms  including sadness  or  low mood, crying, loss of interest  in once-enjoyed  activities, decreased  energy, and  sleep­ ing and eating changes . While these symptoms  can be present in youth and adults, in adolescence , depression  may manifest  in slightly diverse ways . For example, over 60% of depressed teens reported severe impairment  in functioning  related to school/work , family, chores, and social  roles  (Avenevoli  et  al., 2015). Recent research has shown that typical presentations of youth depressive illness  may  include fatigue, irritability, and anger with  behavioral correlates  including  poor  school  performance , negative  acting out, and poor interpersonal and peer relationships (Jaycox et al., 2009). Typically, individual  behavior  changes  must  occur  for  at least 2 weeks and must represent a notable change in functioning from earlier levels considered normal for that individual to be con­ sidered impaired. Although episodes of major depressive disorder are less frequent  in children than adolescents , the length of the episode was  significantly  longer in duration in children than ado­ lescents (median of 16 weeks versus 8 weeks , respectively; Rohde et al., 2013). Regardless of the length of the episode, clinicians are encouraged to intervene as opposed to watchful waiting to allevi­ ate suf fering, particularly given the sensitive  developmental  peri­ ods and tasks of childhood and adolescence .
+The OSM-5 diagnostic criteria for characteristics of depres­ sive disorders note some exceptions for children or adolescents, such as an exception specific to children for  major depressive disorder that failure to gain expected weight rather than just sig­
+nificant we ight loss or gain should be considered during diagnosis (American  Psychiatric  Association,  2013).  Regarding the  mani­ festations of major depressive  disorder  in youth, the American Academy  of Child and Adolescent  Psychiatry (2013)  indicated that children and adolescents w ith depression exhibit symptoms including social isolation, extreme sensitivity to rejection or failure, and increased irritability. While these symptoms can also occur in adults, these are symptoms that may be of great import for recog­ nizing depression in youth, particularly because there are import­ ant developmental differences in verbal expression and emotional maturity betwee n youth and adults. Overall, much of the literature does not treat children and adolescents as separate developmen­
+tal cohorts, thereby limiting our understanding of unique symptom presentations among children and adolescents, respectively. This is a concern because distinct differences in development may have implications for treatment (e.g., the appropriateness of some cog­ nitive strategies or forms of play therapy) .
+
+Sex differences in children and adolescents.  Rates of depression differ among the sexes across the age span of childhood to adoles­ cence. Prior to puberty, rates for depressive disorders are equivalent between the sexes. After puberty, this shifts to a 2:1 ratio of females
+to males, w hich continues throughout adulthood (Hatcher-Kay &
+King, 2003). The emergence of the sex difference in adolescence is consistent across samples from different countries and irrespective of the measure used to assess depressive symptomatology  (Wade, Cairney, & Pevalin, 2002). Studies are consistent in finding that the increase in rates for females begins to emerge around the age of 13 (Nolen-Hoeksema & Girgus,1994; Thapar, Collishaw, Pine,& Thapar, 2012). The reasons for the post-pubertal onset of rate differences among the sexes are not fully understood, but factors thought to play an influence  include the  hormonal  and social changes that  occur during puberty (Hatcher-Kay & King, 2003; Nolen-Hoeksema ,2001;
+Thapar et al., 2012).
+
+Child/adolescent depression and race/ethnicity. Researchers have posited  many  explanations   for  the   disengagement   of   African Americans  and other  people of  color  in clinical treatment , mostly focusing on access to care barriers (Alegria et al., 2002; Snowden & Yamada, 2005).  For example, many African Americans view psychi­ atric  illness as a  proscribed subject  unattributable to genetic  and dysfunctional familial  precursors, favoring  instead attributes toward lack of  resoluteness, spirituality,  and stress  (Cauce  et  al., 2002; Kendrick, Anderson,  & Moore, 2007; Schnittker,  Freese, & Powell, 2000).  Further, there are barriers to care related to other people of color focused on lack of  multilingual, multicultural  providers; differ­
+ing conceptualizations of mental illness; and stigma. Other literature has suggested reasons including lack of nonracially diverse profes­ sionals  in leadership  roles, questioning  of  motives  of  nondiverse
+clinicians/researchers, fears of exploitation, and lack of knowledge about the process of medical research and clinical care as the ratio­ nale for  people of  color  not participating in clinical  research/treat­ ment (Connell, Shaw, Holmes,& Foster,2001; Corbie-Smith, Thomas,
+Williams, & Moody-Ayers, 1999; Murray, 1998).   As it relates to
+youth, the literature indicates that African American parents specif­ ically are fearful of the negative consequences typically prescribed for emotionally or behaviorally disturbed children, as well as misla­ beling of their children with disruptive behavior problems instead of depressive illness (McMiller & Weisz, 1996; Pastore,Juszczak, Fisher,
+& Friedman,1998; Wu et al., 2001). These concerns are also relevant
+for other groups of people of color.
+Research has suggested heterogeneity in the development and expression of depressive symptoms, as evidenced by diverse trajectories for different racial/ethnic groups (Costello, Swendsen, Rose, & Dierker, 2008). Some studies reported higher rates of
+depression among non-White youth than White youth (Moon &
+Rao, 2010; van Voorhees et al., 2008), while others show a greater percentage of White youth with depressive symptoms than African American youth (Saluja et al., 2004). Additionally, data from sever­ al large studies suggested that , after controlling for socioeconom­ ic status, there are no differences in the prevalence of depressive symptoms  or  affective  disorders  among Black, Hispanic/Latino , Asian, and White youth (Doi, Roberts, Takeuchi , & Suzuki, 2001;
+Garrison, Addy,  Jackson, McKeown, & Waller,  1992; Rushton,
+Forcier, & Schectman, 2002). Other studies indicated that Latino and Native American youth have the highest rates of depression among youth of color (Centers for Disease Control [CDC], 2012; Kann et al., 2014; Saluja et al., 2004). Given the profound impact of SES on the developmental trajectory and the strong association betwee n poor mental health outcomes and the sequelae of poverty (Matthew & Brodersen, 2018), further research that better depicts rates and presentation of depression among marginalized popula­ tions is necessary.
+While treatment  of depression in children and adolescents with cognitive treatments is promising, little research exists about the treatment of depressive illnesses in exclusive samples of youth of color. Specifically, only a small handful of studies on exclusive samples of youth of color were identified through APA staf f review of studies included in the underlying reviews. For example, a ran­ domized controlled trial examined the use of  interpersonal psy­ chotherapy (IPT) for the treatment of depression in Latino youth (Mufson et al., 2004). In this study, IPT was found to be superi­
+or to treatment  as usual33  for a sample of under resourced Latino
+youth  regarding symptom  reduction and  behavioral functioning compared with youth receiving treatment as usual. Two addition­ al studies examined the use of both cognitive-behavioral therapy and interpersonal psychotherapy for the treatment of Latino youth
+(Rosse116 & Bernal, 1999; Rosse116 , Bernal, & Rivera-Medina , 2012).
+These findings are promising, but considerably more research on youth of color from varied socioeconomic backgrounds is needed to support these findings and to expand the knowledge base regard­ ing the treatment  of depression in racially diverse youth. Finally,
+
+
+
+33	Treatment as usual refers to the treatment that a patient would ordinarily receive. The panel noted the challenge of a consistent definition for treatment as usual given that the definition var ies by study.
+given greater underutilization of clinical depression care by youth of color, more research is needed to examine the impacts of engag­ ing this population in depression treatment. Currently, a growing body of research exists in treatment engagement (Breland-Noble
+& A AKOMA Project Adult Advisory Board, 2012; Breland-Noble, Bell, Burriss,& A A KOMA Project Adult Advisory Board, 2011), with promising findings . However, considerably more research is need­ ed to replicate current findings and establish the effectiveness of engagement methods (Lindsey et al., 2014). And, research with youth of color must be based on an understanding of multicultural concerns as well as practical barriers that limit access to care.
+
+Child/adolescent depression and suicide. While adolescents who experience an episode of depression have a 30-fold increased risk of deaths by suicide (Brent, 1993; Brent et al., 1988), the suicide rates for children and adolescents have generally stabilized or declined over the past 20 years (Mcloughlin, Gould, & Malone, 2015). According to Shain and colleagues' (2016) analysis, the suicide rate in teens decreased by 28% from 1990 to 2013.
+Even though there is stability in rates of suicide among youth, suicide is the third leading cause of death for youth between the ages of 10 and 24 (CDC, 2017) as well as for Hispanic males ages 15 to 34 (Suicide Prevention Resource Center, 2013) and Black youth ages 15 to 24 (Al-Mateen & Rogers, 2018). Depressive disorders are linked with increased risk for suicidal ideation, suicide attempts, and completed  suicides  (Hatcher-Kay  & King, 2003). The  preva­ lence of seriously  attempting suicide was  higher among gay, les­ bian, and  bisexual  youth  than  their  heterosexual  counterparts (42.8%  and  14.8%,  respectively;  Frieden, Jaffe, Cano,  Richards,
+& lademarco, 2016). Depression is a major risk factor for suicide with more than half of adolescent suicide victims reported to have a depressive disorder at time of death (Thapar et al., 2012). Rates of suicide among Native American youth are the highest across all populations  and are  at  epidemic  levels  (Herne,  Bertholomew, & Weahkee,  2014).  According  to  the  National  Comorbidity  Study­ Adolescent  Supplement,  nearly  30%  of  adolescents  with  major depressive disorder  reported some form of suicidality  in the past year,  with  10.8%  reporting  a  suicide  attempt  (Avenevoli  et  al., 2015). Thus, providing effective treatment  for depression  in youth and reduction of access to lethal means might have a significant impact on preventing suicidal  behavior  and attempts  in this  age group.
+
+Child/adolescent depression and co-morbidity. A large proportion of children and adolescents with depression also meet criteria for comor­ bid psychiatric disorders, with the most common disorders including anxiety and behavioral (conduct and oppositional defiant) disorders (Avenevoli et al., 2015). Research has indicated that youth with pri­ mary depression,compared with youth with primary anxiety, are more likely to have other comorbidities (such as anxiety).  For example, research over the past 10 years suggests that almost half of community youth with primary depression also meet criteria for anxiety disorders while just under 20% of community youth with primary anxiety also meet criteria for a depressive disorder (Garber & Weersing, 2010). Aside from anxiety, other common psychiatric comorbidities present in youth with primary depression include substance use and abuse
+(Curry & Hersch, 2016), sleep problems and attention-deficit/hyper­ activity disorder (Becker, Langberg,& Evans, 2015).
+There are also some reported sex differences in patterns of concurrent comorbidity, with some studies showing depression comorbid with conduct disorder in girls but not boys, and depres­ sion comorbid with substance use disorders in boys but not girls (Costello, Mustillo, Erkanli, Keeler, & Angold, 2003).   However, recent research points to fewer sex differences and greater depres­ sive  illness severity  associated with likelihood of co-morbidity equally between boys and girls (i.e., more severe major depres­ sive disorder is associated with presence of conduct and anxiety problems than less severe major depressive disorder in both sexes; Avenevoli et al., 2015).  A s shown earlier, depression was often studied as a secondary co-occurring disorder to other behavior and mental health problems (i.e., conduct disorder and opposi­ tional defiant disorder) in youth of color. However, it is unlikely that high representation of this research area shows greater likelihood of externalizing behavior problems in depressed youth of color. Therefore ,future research is needed with large samples of youth of color to determine actual correlation between disruptive behavior problems and the presence of major depressive disorder in racially diverse youth.
+Finally, physical health conditions, such as smoking, obesi­ ty, and drug use (Conway, Swendsen, Husky, He, & Merikangas, 2016; Merikangas, Mendola, Pastor, Reuben, & Cleary, 2012) are also associated with depression that differs across racial groups. Overall, the current body of research has suggested that youth across race and sex experience depression in consort with other mental illnesses and that clinical interventions for depression may need to account for the presence of symptoms reflecting multiple mental illnesses in children and teens .
+
+
+
+General Adult Population
+
+Prevalence among adults. Major depression is one of the most com­ mon   mood   disorders   among  young   and   middle-aged   adults. According to a 2014 report by the Substance Abuse and Mental Health Services Administration  (SAMHSA), an estimated 15.7 mil­ lion adults in the United States aged 18 and older had at least one major depressive episode during the past year. This represented 6.7% of all U.S. adults (SAMHSA, 2015).
+In addition, 4.3% of adults (10.2 million individuals)  reported experiencing a major depressive episode with "severe impairment " (SAMHSA, 2015). Severe impairment occurred if their depression resulted  in severe  problems  in their  ability  "to  manage  at  home, manage well  at work,  have relationships  with others, or  have a social  life" (SAMHSA, 2015, p. 30). Among the  U.S. adult  popu­ lation, the highest  percentage of  individuals with a previous-year major depressive episode occurred for young adults aged 18 to 25 (9.3%). This was followed by adults aged 26 to 49 (7.2%) and then by individuals older than 50 (5.2%). Regarding the experience  of
+a major depressive episode leading to severe impairment, the age group with the highest percentage of adults involved those aged 18 to 25 (6.0%), followed  by people aged 26 to 49 (4.6%) and per­
+sons older than 50 (3.5%; SAMHSA, 2015).
+Not only is depression pervasive, it also carries the heaviest burden of disability  among psychological  disorders . Specifically, major depression accounts for 3.7% of all U.S. disability-adjusted life years and 8.3% of all U.S. years lived with disability (National
+Institute of Mental Health, 2015). Worldwide, it is estimated that on average 1 in 20 people experienced a depressive episode in the previous year, affecting 350 million people (Marcus et al., 2012).
+
+Characteristics of depression in the general adult population: Sex differences  in adults. Across the world, women are approximately twice as likely to experience depression as men (Albert, 2015). For example, women have a lifetime prevalence for major depression of approximately 21%, compared with 12% among men (Kessler et al., 1993).  This   sex   difference   appears   early   during  adolescence . Explanations for this difference include a variety  of developmental, biological, cultural, and social causes (Albert, 2015).
+Regardless of the reasons, the World Health Organization (WHO) estimated that the burden of depression is approximately 50% higher for women than men (WHO, 2008). Moreover, it is the leading cause of functional impairment for women regardless of the socioeconomic status of a given country. Of related concern is the notion that maternal depression, especially in developing coun­ tries, may be a risk factor for impoverished growth in young chil­ dren (Rahman, Patel, Maselko, & Kirkwood, 2008), underscoring the cross-generational impact of depression.
+There are also sex differences in the presentation of adult depression.  For example, according to the National Institute of Mental Health (NIMH), women tend to have symptoms of sadness , worthlessness , and guilt, whereas men are more likely to report
+experiencing  tiredness , irritability, sleep  problems, and  loss  of interest in previously pleasurable activities (NIMH, 2015).
+
+Adult depression and race/ethnicity. Different depression preva Ience rates as a function of race and ethnicity have been identified. This relationship, however,can be somewhat complex. For example,while large-scale studies tend to find that Blacks (e.g., African Americans , Caribbean Blacks) have lower lifetime rates of major depressive dis­ order compared with  non-Hispanic  Whites, the chronicity  and bur­ den of depression appears the opposite for these groups. Specifically, one study found that while lifetime major depressive disorder preva­ lence estimates were the highest for Whites, the chronicity of major depressive disorder for the Caribbean Black and African American samples was  substantially  higher than for  Whites  (Williams et al., 2007).  Moreover, both Black groups, in comparison to Whites,were less likely to receive any form of psychotherapy or pharmacotherapy for depression and were more likely to rate their major depressive disorder as more severe and disabling.
+One concern involved in estimating difference in prevalence rates as a function of race and ethnicity is to avoid "lumping" var­ ious subgroups together. For example, 27% of a group of over 16,000  individuals  of  Hispanic/Latino  origin  reported  elevated levels of depressive symptoms , but rates varied between 22.3% among individuals of Mexican background to 38% among those of Puerto Rican background (Wassertheil-Smoller et al., 2014). Also, despite  similarities  in  ethnic  background/heritage , an  individu­ al's location of birth may play a role in influencing differences in
+depression prevalence rates. One study found that prevalence rates of depression among U.S. born Chinese Americans was much high­ er (21.5%) than that of non-U.S. born Chinese Americans (7.7%; Jackson et al., 2011).  Further, the prevalence rates of depression among Asian Americans were higher than among A sians in Asia (Yang & Won Pat-Borja, 2007). An added concern in estimating dif­ ferences in prevalence rates is that socioeconomic status and pov­ erty are not only independent predictors of depression , they are also strongly associated with race/ethnicity and depression (Riolo, Nguyen, Greden, & King, 2005).  Notably, in many places around the world, people of color (compared with Whites)  are overrep­ resented in groups with less access to socioeconomic resources . Research that fully explores rates of depression among multicultur­ al and diverse populations inclusive of SES, gender identity, sexual orientation, cultural heritage, and geography is needed.
+
+Adult depression and suicide. It is estimated that approximately two thirds of those in the United States who die by suicide suffer from depression at the time of the suicide act (CDC, 2012). Moreover,the likelihood for a lifetime suicide attempt has been estimated to be approximately five times greater for individuals with major depres­ sive disorder or persistent depressive disorder compared with an individual without  a  diagnosis  (Nock, Hwang, Sampson, & Kessler,
+2010). Such statistics  strongly  underscore the  need for  adequate
+assessment of the presence and degree of suicidality when working with depressed adults, the reduction of access to lethal means, and the need for effective depression treatment to reduce suicide .
+
+Adult depression and comorbidity. Depressive symptoms and disor­ ders are commonly associated with a wide range of other psychiatric and medical disorders and diseases. These include anxiety, posttrau­ matic stress disorder, substance use, personality disorders, heart dis­ ease, cancer, multiple sclerosis, pain, dementia, and diabetes  (e.g., Katon et al.,2010; Richards & O'Hara, 2014; Simon et al.,2005). Such comorbidity can have significant impact on people's health outcome beyond the disease itself. For example, depression among patients with diabetes is associated with higher risk of significant complications such as amputation, blindness, and dementia  (Katon et al., 2010;
+Simon et al., 2005). Moreover, depression itself has been found to
+predict comorbid medical diseases such as diabetes (Katon et al., 2010). Research has shown that among people without cardiovascular disease but depression at baseline, there is an approximately 200% increase in relative risk (or probability) of developing heart disease compared  with  nondepressed  persons  (Wulson  & Singal, 2003). Additionally , depression is commonly  reported in patients with HIV/ AIDS (Rabkin,2008). The literature on the assessment and treatment of diseases comorbid with depression is large and growing.
+
+
+
+Older Adult Population
+
+Prevalence of depression in older adults. The prevalence rate of depression in the overall older adult population is estimated to be 2.6% (Haigh, Bogucki, Sigmon, & Blazer, 2016; Kessler et al., 2003). The estimate point prevalence of major depression among older patients  ranges between 5%-10% in primary care settings  and is
+higher still (10%-42%)  among older  patients in inpatient settings, including long-term care (Blazer, 2003; Djernes, 2006; Schulberg, Katon, Simon, & Rush, 1998). Epidemiological  studies of  late-life depression show that the prevalence of depression and of clinically significant  depressive  symptoms  increases  with greater  medical burden/comorbidity  and disability. Subthreshold depression is 2-3 times  more common than major depression  in older  adults, and 8%-10%  of  those  with  subthreshold   symptoms  develop  major depression each year (Meeks, Vahia, Lavretsky, Kulkarni, & Jeste, 2011).  Cognitive decline, age-associated neurobiological changes, stressful events, and sleep disturbance are also risk factors for late­ life depression (Fiske, Wetherell, & Gatz, 2010; Si:izeri-Varma, 2012). It is also important to consider cohort differences in the prevalence, presentation, and treatment of depression among older adults. For example, the issues of a typical young-old person in their 60s may be quite different than that of an older-old person in their 90s.
+
+Characteristics of depression in older adults. The clinical presenta­ tion of depression in older adults is also distinctive and, to an import­ ant extent, differs from early periods in the life cycle by following a relapsing and recurrent course. Depression in older adults is often treatment resistant,that is, patients may improve partially but do not remit  symptomatically   nor  regain  full  functional  status  (Ng  & Schweitzer, 2002). Partial response, as marked by the presence of residual  symptoms,  is  associated  both with  continuing  disability, caregiver burden, and elevated risk for early relapse and recurrence. The literature on treatment  resistance in older adults is still rather sparse, but recent leads in the pharmacotherapy of treatment-resis­ tant depression are promising (Lenze et al., 2015).
+Subsyndromal depression in old age is an important oppor­ tunity for early interventions to preempt the development of full­ blown clinical depression . Learning-based interventions and those that are behaviorally activating (e.g., behavioral activation, cogni­ tive-behavioral therapy, problem-solving therapy) are a promising method of depression prevention (with a focus on mildly symp­ tomatic people; Reynolds et al., 2014). These interventions are also amenable for outreach to, and effective in, low-income older African Americans (Reynolds et al., 2014).
+
+Older adult depression and race/ethnicity. The growth in the nation's older population is characterized also by increasing racial and ethnic diversity and the need for preventive and treatment  interventions that are culturally appropriate. Models employing lay health counsel­ ors of similar ethnic and racial backgrounds to the patient increas­ ingly seem to be a rational and cost-effective use of resources to reach diverse racial and ethnic groups in underserved and disadvan­ taged older adults (Patel et al., 2010).
+Treatment accessibility and use can vary among older adults of differing ethnic backgrounds . Such disparities in treatment accessi­ bility and/or use have been attributed to financial hardship, unique presentations of depressive symptoms, culturally based mistrust of providers, negative attitudes about seeking mental health care (e.g., feelings of shame/guilt), anticipated or previously experienced rac­ ism or discrimination  in treatment settings, language barriers, and the limited accessibility of ethnically diverse mental health profes­ sionals (Conner et al., 2010; Unutzer et al., 2003). However, more
+research is needed to understand other groups of people of color and people of color across socioeconomic strata.
+
+Older adult depression and suicide. Another and particularly import­ ant aspect of depression in older adults is the risk for suicide, partic­ ularly in older White males who typically use handguns to end their lives (Bruce et al., 2004). Increasing the accessibility and utilization of care for depression in older adults as well as all age populations and reducing access to highly lethal means (e.g., firearms) are key strategies for reducing proximal risk factors for suicide.
+
+Older adult depression and comorbidity. Although core symptoms are the same as in the general adult population (e.g., low mood and anhedonia), depression in older adults typically co-occurs with often chronic medical disorders, amplifying disability (Lin et al., 2003). For example, Lin and colleagues (2003) found that enhancing care for depression was related to lower levels of pain as well as higher qual­ ity of life and functional status among a diverse sample of older adults with comorbid depression and arthritis. Further, depression in older adults either coexists with or foreshadows the development of cognitive  impairment  and  dementia  (Butters  et  al.,  2004;  Diniz, Butters, Albert, Dew,& Reynolds, 2013). For example, in a meta-anal­ ysis, Diniz and colleagues (2013) found a link between depression in older adults and risk of dementia, including both Alzheimer's disease and vascular dementia . This risk was particularly high for vascular dementia  compared  with  Alzheimer's  disease. These  signature comorbidities of late-life depression complicate its management and need to be addressed in treatment planning.
+
+Treatment issues in older adults. Many older adults prefer psycho­ social treatments  to  pharmacotherapy  for depression (Hanson & Scogin,  2008;  Raue, Schulberg,  Heo, Klimstra, &  Bruce, 2009). Multiple factors  influence  these  preferences  including  insurance coverage,  availability  of  specific  treatments , transportation, and reduced patient mobility and make input from patients and families important. In depression treatments ,older adults with depression ,as well as their family caregivers, define treatment goals in terms of well-being and return of functional status and engagement  in key social and familial roles (Lebowitz et al., 1997).  It is often difficult, however, to  provide  psychosocial treatment , given the  paucity of specialty-trained providers to treat depression in older adults, espe­ cially  in primary care  settings.  Primary  care settings  remain the principal locus where treatment of late-life depression takes place. At any one point intime,it is estimated that 6%-10% of older patients in primary care settings  qualify for a diagnosis  of  current  major depressive  episode  and  another  10%-20 %  have  subsyndromal symptoms that are disabling and that pose risk for conversion to major depression. To some extent the locus of care reflects patient and family preferences, as well as stigma against mental health spe­ cialty  referral.  The  challenge  here  is  to  identify  models  of  evi­ dence-based depression care management that are transferrable to and practical within  primary  care settings  (e.g.,  Improving Mood­ Promoting Access to Collaborative  Treatment  [IMPACT] interven­ tion; Unutzer et al., 2002); and Prevention of Suicide in Primary Care Elderly: Collaborative Trial [PROSPECT]; Bruce et al., 2004). There is considerable progress in the development and implementation of
+collaborative care models for both treatment and prevention. In low resource countries, such as India, progress is also evident in the development of models that use lay health counsellors for the imple­ mentation of depression treatment and prevention programs (e.g., the MANAS trial in Goa; Patel et al., 2010). Many frail, homebound older adults w ho have symptoms of depression and cognitive impair­ ment have difficulties in obtaining appropriate care. Programs for reaching out to this particularly vulnerable population have been developed, together w ith pathways to implementation of appropri­ ate treatment (Scogin, Moss, Harris,& Presnell, 2014; Sirey, Hannon, D'A ngelo, & Knies, 2012). Family and psychoeducational interven­ tions may be particularly useful in reaching diverse older adults. As such, a public health and clinical priority in optimizing care for older adults is identifying psychosocial treatments that are effective across diverse racial, ethnic, and socioeconomic groups; can be carried out in  general  medical  settings  (such  as  problem-solving  therapy; Unutzer et al., 2002); and are sensitive to culturally specific experi­ ences and beliefs of diverse racial,ethnic, and socioeconomic groups.
+
+
+
+The Need for a Clinical Practice Guideline and Decisions about Scope and Goals of the Clinical Practice Guideline
+
+Availabletreatmentguidelinesfor the problem. Given the evidence that depression is a disorder w hose cost and burden justif y extensive efforts at intervention, providers need access to information that w ill help guide intervention. While there is now a substantial body of research literature examining a broad range of approaches to assess­ ment and treatment  (including psyc hotherapeutic , pharmacologic , and other interventional approaches), studies have indicated that of those w ho receive treatment , betwee n 30% (Teh et al., 2010) and 59% (Kessler et al., 2003) do not receive a minimally adequate dose of treatment (as defined by Kessler et al., 2003 on p. 3098). Some subpopulations are at even higher risk for failure to receive adequate treatment (i.e., African Americans and individuals w ho begin their depression treatment  w ith an inpatient  hospitalization for depres­ sion; Teh et al., 2010). These findings strongly demonstrate the need for providers, consumers, and health care systems to have access to guidelines that provide information about eff ective treatment options as we ll as a focused application of dissemination and implementa­ tion science.
+Fortunately, there have been several guideline develop­ ment ef forts addressing major depression , including the National Institute for Health and Care Excellence (NICE) guideline in the United Kingdom (NICE, 2009), the Department of Veterans Affairs/Department of Defense (2016) guideline, and the American Psyc hiatric Association (2010). How the current guideline comple­ ments these prior efforts is discussed on p. 72.
+The APA Clinical Practice Guideline for the Treatment of the Problem
+
+In considering how the current guideline development could comple­ ment the existing knowledge base, the guideline development panel had several overarching goals. The panel intended to develop a guideline that wo uld be applicable to a broad range of the population, including adolescents through older adult populations. Of note, in review ing the literature, the panel found that it was unable to sepa­ rate child resea rch from adolescent resea rch consistently and, there­ fore, expanded the domain reviewed to include children. In addition, the panel identified the need to include psyc hotherapeutic interven­ tions. In considering  prior guidelines, they either provided limited guidance on psyc hotherapies or had been completed 5 years or more prior and there was a need for an updated review of the literature (following IOM [2011b] standards). One exception is the Department of Veterans  Affairs/Department  of Defense guideline focused on veteran and military populations, w hich was completed w hile this guideline  was  in development  and w hose underly ing systematic review has been draw n on to support this current effort.
+
+What the current guideline provides beyond existing ones. This clinical practice guideline differs in substantive ways from others that are currently  available. This guideline  is predicated on the three dimensions mentioned in the American Psyc hological Association Presidential Task  Force on Evidence-Based  Practice  (2006): (1) grounding in the best available science; (2) practitioner expertise in application decisions; and (3) patient expertise regarding their pref­ erences, culture, and va lues. These three areas we re consistent w ith earlier wo rk by the Institute of Medicine (IOM) and are areas that are universally accepted in medicine. In addition, the steering com­ mittee and panel made every effort to fully apply the standards set forth  by the  Institute of  Medicine of  the  National Academies  of Sciences,  Engineering, and  Medicine for developing independent, reliable, and high-qualit y clinical practice guidelines (IOM, 2011a; IOM, 2011b). 34  This document goes beyond previous treatment of depression guidelines and literature in the following important ways:
+(a) invo lvement of consumer (patient) stakeholders as panel mem­ bers in addition to professionals from multiple disciplines invo lved in the delivery of the treatment of depression;(b) use of procedures for identify ing and  managing  real and  potential  conflicts  of  interest (COis) throughout the guideline development process that required all panel members to routinely disclose all conflicts of interest; (c) identification of patient va lues and preferences through review of published research literature and input from consumer members of the  panel; (d) identification  of  harms and  burdens  of treatments through review of published research literature and input of consum­ ers and clinician members of the panel in evaluating those harms and burdens; (e) the use of decision-table (for older adults) and grid (for general adults and children/adolescents) templates to systematically guide panel members in the development of recommendations that
+
+
+
+
+34	Of note, as of March 2016, the division of the National Academ ies of Sc iences, Engineering, and Medicine (the National Academ ies) formerly known as Institute of Medicine (IOM) was renamed the National Academy of Medicine (NAM). Despite the recent name change, the guideline will use IOM when referring to the IOM stan­ dards for guideline develop ment and systemat ic reviews.
+take into account the strength of the research evidence for benefits and harms, the relative balance of treatment benefit versus treatment harm, the values and preferences of patients, and applicability.
+For the general adult population, the panel used an indepen­ dent, newly released, systematic  review of the depression treat­ ment literature that provided clearly specified inclusion and exclu­ sion criteria , a standard method for grading risk of bias of individual studies and strength of evidence for bodies of evidence . The sys­ tematic review was supplemented by a review of existing reviews as well as meta-analyses to provide more comprehensive coverage of the literature. The panel used existing meta-analyses of the child and adolescent literature that were identified by panel members, and all existing meta-analyses and reviews were evaluated using the same AMSTAR (a measurement tool to assess systematic reviews; Shea et al., 2007) quality criteria.
+
+Institute of Medicine (IOM) standards as the basis for this clinical practice guideline. Another goal of the panel was to take a method­ ologically  rigorous approach to guideline development ,following the current  IOM recommendations  (IOM, 2011a). This, however, led to one of the more significant challenges in the guideline development process. The systematic reviews conducted by the evidence-based practice centers met IOM criteria but excluded bodies of literature because of inadequate quality, yet such exclusions meant some of the  panel's  key  questions  were  not  addressed.  Rather than  not address those questions, the panel chose to modify its criteria for systematic reviews and include manuscripts that had used a single rather than dual review process to evaluate articles for inclusion in the review (i.e., one reviewer vs. two for article inclusion) but other­ wise met all IOM requirements. The consequence is a less method­ ologically rigorous systematic review because there is an increased risk of bias in the choice of journal articles (Edwards et al.,2002; IOM, 2011b). However, key questions could not have been answered oth­ erwise. The single reviewer in each of the three meta-analyses utiliz­ ing single  review  was  panel  member  and  lead  author  of  these published meta-analyses, Dr. Pim Cuijpers. To reduce potential COi, as noted each of these reviews was  independently analyzed with AMSTAR  prior to use by the panel. The panel is therefore able to address these questions but does so with proper precautions about the literature on which the recommendations are based.
+
+Shared versus unique contributions of different psychotherapy models. A fourth goal was to attempt to address the issue of shared versus unique contributions of different psychotherapy models. Most of  the  psychotherapy  treatment  literature  examines  specifically defined models. However,there is a growing body of literature suggest­ ing that  shared  aspects  (common factors  [e.g., hope, expectancy, therapeutic  alliance])  of  interventions  (Norcross, 2011) relative to model-specific  components  are germane to optimal treatment  out­ comes (regardless of the therapeutic orientation implemented). An analysis of treatments for major depression found evidence consistent with this (Cuijpers, Driessen, Hollon et al., 2012a).   In addition, the definitions of treatments in articles and reviews varied greatly. Further,
+in some reviews,treatments were grouped that were arguably not part of the shared family of interventions, reducing panel confidence in consistency across treatment comparisons and judgments about spe­ cific contributions of distinct psychotherapies. Thus,the panel was not able  to  realize  this  goal  but  makes  recommendations  for  future research that explicitly addresses the shared components of effective psychotherapy, the  necessity  of  appropriately  defining treatments, and newer models of the treatment of depression. Further discussion of this topic is provided in the Discussion section.
+
+Guideline recommendations for underserved populations. Similarly, a fifth goal was to provide appropriate guideline recommendations for underserved populations. However, it was immediately apparent that randomized controlled trials (RCTs) included in the reviews had limited  information available  to  inform recommendations  for  such populations. While the panel made extensive efforts to draw guid­ ance from the  literature available, the  limitations  of that  literature made clear to the panel the need for a vigorous call for increased dedication to RCTs specifically  studying diverse samples . Of note, the limitations of the literature highlighted the need for funding agen­ cies and investigators to explicitly address differences, in particular, culture,  ethnicity,  sex, sexual   minority, gender   identity,  disability, nationality  of  origin, generation  status, race, socioeconomic  status, and others, as well as the intersection of these variables, which can further influence treatment. These are areas that could contribute to the experience and treatment of depression but for which the panel did not have an adequate literature to address.
+Finally, arising from these last two goals, the panel was deter­ mined to develop a series of recommendations for future research to address  the gaps  and limitations  in the literature that  were observed. The panel's goal is that this guideline serves as a current and functional tool to guide providers, health care systems , and consumers in decision-making regarding treatment and provides investigators guidance on key clinical research questions that are necessary to address so that all can meaningfully improve the abil­ ity to treat this pervasive and debilitating disorder.
+
+
+
+Guideline Purpose and Scope: What the Guideline Does and Does Not Address
+
+The purpose of this guideline is to provide recommendations on the treatment of depression in three developmental cohorts: children and adolescents; general population of adults; and older adults. This guide­ line is based on several systematic reviews and meta-analyses of the evidence on treatment of depression,two of which were sponsored by the Agency for Health Care Research and Quality (AHRQ)35 and con­ ducted by the Research Triangle Institute-University of North Carolina (RTl-UNC) Evidence-Based Practice Center (Gartlehner et al., 2015) and the ECRI Institute (2015). The other reviews were independently conducted by teams of researchers (Cipriani et al., 2016; Cuijpers, Driessen, et al., 2012a; Cuijpers, Karyotaki, Pot, et al., 2014a; Cuijpers,
+
+
+
+35	The AHRQ (an agency that works w ithin the U.S. Depa rtment of Health and Huma n Services) strives to improve health care by enhancing access to the releva nt evidence bases in collaboration with partners.
